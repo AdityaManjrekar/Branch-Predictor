@@ -1,0 +1,8 @@
+Name: Aditya Manjrekar
+email id: amanjre1@binghamton.edu
+Steps to Execute:
+1) Unzip it using following command:
+	tar -xvf Aditya-Manjrekar-hw3p1.tar.gz
+2) make
+3) ./p1 < branch_sequence.txt > tnm-prediction.txt
+4) Execute the 'diff' command to check the difference between actual and Final output 
